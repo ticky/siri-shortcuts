@@ -2,8 +2,6 @@
 
 A collection of useful Shortcuts for iOS, watchOS and HomePod
 
-## Contents
-
 | Name & Source | iCloud | Share Extension | Speakable | Description |
 | ------------- | :----: | :-------------: | :-------: | ----------- |
 | **[Is GitHub Down?](Is%20GitHub%20Down%3F.shortcut)** | [Get](https://www.icloud.com/shortcuts/e79cc8d2a0ee49f99f0313c68b993de8) | No | Yes | Check [GitHub's status](https://status.github.com/) from your wrist |
