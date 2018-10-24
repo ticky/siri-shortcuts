@@ -178,7 +178,7 @@
 										<key>attachmentsByRange</key>
 										<dict/>
 										<key>string</key>
-										<string>no problems</string>
+										<string>no issues</string>
 									</dict>
 									<key>WFSerializationType</key>
 									<string>WFTextTokenString</string>
@@ -384,23 +384,23 @@
 								<key>VariableName</key>
 								<string>Latest Status Description</string>
 							</dict>
-							<key>{28, 1}</key>
-							<dict>
-								<key>Type</key>
-								<string>Variable</string>
-								<key>VariableName</key>
-								<string>Latest Message Time</string>
-							</dict>
-							<key>{41, 1}</key>
+							<key>{39, 1}</key>
 							<dict>
 								<key>Type</key>
 								<string>Variable</string>
 								<key>VariableName</key>
 								<string>Latest Message Body</string>
 							</dict>
+							<key>{6, 1}</key>
+							<dict>
+								<key>Type</key>
+								<string>Variable</string>
+								<key>VariableName</key>
+								<string>Latest Message Time</string>
+							</dict>
 						</dict>
 						<key>string</key>
-						<string>GitHub’s last status was ￼. ￼ they said “￼”</string>
+						<string>As of ￼, GitHub reported ￼. They said “￼”</string>
 					</dict>
 					<key>WFSerializationType</key>
 					<string>WFTextTokenString</string>
