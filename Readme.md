@@ -1,5 +1,7 @@
 # Siri Shortcuts 💬
 
+_**Note**: Due to changes in Shortcuts since iOS 12, these shortcuts may not work in their current forms. Importing `.shortcuts` files from outside of iCloud is also no longer possible._
+
 A collection of useful Shortcuts for iOS, watchOS and HomePod
 
 | Name & Source | iCloud | Description | Share Extension | Speakable |
